@@ -2,7 +2,7 @@
 
 For an initial comparison following metrics are used:
 - Accuracy
-- Matthews Correlation Coeficient (MCC): avoids bias due to data skew and assures that predictions are balanced over classes
+- Matthews Correlation Coefficient (MCC): avoids bias due to data skew and assures that predictions are balanced over classes
 
 For a more detailed comparison with the top baselines I used additional metrics following the STLAT paper:
 - Specificity ( recall of negative class )
